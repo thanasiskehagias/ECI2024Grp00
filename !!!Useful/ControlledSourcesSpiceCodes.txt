@@ -1,0 +1,6 @@
+Controlled sources Spice codes
+
+E: VCVS
+F: CCCS
+G: VCCS
+H: CCVS

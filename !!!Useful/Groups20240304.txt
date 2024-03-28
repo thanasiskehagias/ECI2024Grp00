@@ -1,0 +1,79 @@
+dangelak@ece.auth.gr 
+cagra@ece.auth.gr 
+mandra@ece.auth.gr 
+cvado@ece.auth.gr 
+kehagiat@ece.auth.gr 
+tkarais@ece.auth.gr 
+dkoltsi@ece.auth.gr 
+dkoukn@ece.auth.gr 
+lmagi@ece.auth.gr 
+imoutr@ece.auth.gr 
+dmoral@ece.auth.gr 
+aodon@ece.auth.gr 
+aouzoun@ece.auth.gr 
+fpapaza@ece.auth.gr 
+epatsat@ece.auth.gr 
+Πλευρίτης dplev@ece.auth.gr 
+apolia@ece.auth.gr 
+msandr@ece.auth.gr 
+dsapour@ece.auth.gr
+gstom@ece.auth.gr 
+atzikc@ece.auth.gr 
+etsilik@ece.auth.gr 
+atsirko@ece.auth.gr 
+mfourna@ece.auth.gr 
+mchatg@ece.auth.gr 
+achatzipli@ece.auth.gr 
+=====================
+Διαμαντής Αγγελακέρης dangelak@ece.auth.gr 
+Χαραλαμπία-Κωνσταντίνα Αγραφιώτη cagra@ece.auth.gr 
+Μαρία-Γαβριέλα Ανδρέου mandra@ece.auth.gr 
+Χριστίνα Βαδόλα cvado@ece.auth.gr 
+Αθανάσιος Κεχαγιάς kehagiat@ece.auth.gr 
+Θεόδωρος Καραΐσκος tkarais@ece.auth.gr 
+Δημήτριος Κόλτσης dkoltsi@ece.auth.gr 
+Δημήτριος Κουκνάκος dkoukn@ece.auth.gr 
+Λάζαρος Μαγιόπουλος lmagi@ece.auth.gr 
+Ιωάννης Μουτρόπουλος imoutr@ece.auth.gr 
+Δημήτριος Μώραλης dmoral@ece.auth.gr 
+Ανδρέας Οδοντόπουλος aodon@ece.auth.gr 
+Αλίκη-Θεανώ Ουζουνίδου aouzoun@ece.auth.gr 
+Φωτεινή-Ηρώ Παπαζάχου fpapaza@ece.auth.gr 
+Ευαγγελία Πατσατζάκη epatsat@ece.auth.gr 
+Δημήτριος-Νικόλαος Πλευρίτης dplev@ece.auth.gr 
+Ανέστης Πολίτης apolia@ece.auth.gr 
+Μυρτώ Σάνδρου msandr@ece.auth.gr 
+Δημήτριος Σαπουρίδης dsapour@ece.auth.gr
+Γεώργιος Στομαχόπουλος gstom@ece.auth.gr 
+Αναστασία Τζίκα atzikc@ece.auth.gr 
+Ελένη Τσιλίκα etsilik@ece.auth.gr 
+Άννα Τσίρκου atsirko@ece.auth.gr 
+Μαρία Φούρναρη mfourna@ece.auth.gr 
+Μαρία Χατζηαποστόλου mchatg@ece.auth.gr 
+Αθηνά Χατζηπλή achatzipli@ece.auth.gr 
+=================================
+Αγγελακέρης Διαμαντής 11212, ee, 
+Αγραφιώτη Χαραλαμπία-Κωνσταντίνα 11213, ee, 
+Ανδρέου Μαρία-Γαβριέλα 11218, ee, 
+Βαδόλα Χριστίνα 11222, ee, 
+Καραΐσκος Θεόδωρος 11253, ee, 
+Κόλτσης Δημήτριος 11267, ee, 
+Κουκνάκος Δημήτριος 11271, ee, 
+Μαγιόπουλος Λάζαρος 11282, ee, 
+Μουτρόπουλος Ιωάννης 11293, ee, 
+Μώραλης Δημήτριος 11306, ee, 
+Οδοντόπουλος Ανδρέας 11315, ee, 
+Ουζουνίδου Αλίκη-Θεανώ 11317, ee, 
+Παπαζάχου Φωτεινή-Ηρώ 11322, ee, 
+Πατσατζάκη Ευαγγελία 11330, ee, 
+Πλευρίτης Δημήτριος-Νικόλαος 11332, ee, 
+Πολίτης Ανέστης 11334, ee, 
+Σάνδρου Μυρτώ 11347, ee, 
+Σαπουρίδης Δημήτριος 11501, ee, 
+Στομαχόπουλος Γεώργιος 11363, ee, 
+Τζίκα Αναστασία 11368, ee, 
+Τσιλίκα Ελένη 11377, ee, 
+Τσίρκου Άννα 11381, ee, 
+Φούρναρη Μαρία 11386, ee, 
+Χατζηαποστόλου Μαρία 11389, ee, 
+Χατζηπλή Αθηνά 11391, ee
